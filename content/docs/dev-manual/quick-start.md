@@ -13,5 +13,5 @@ draft: false
 To create your own addon, just open the package manager and click "create new addon", a menu will open where you can specify basic information about the addon and generate its folder structure.
 
 Several different addon elements are available:
-- <b>Tabs</b> for the debug panel.
-- <b>Tools</b>, which are independent components.
+- **Tabs** for the debug panel.
+- **Tools**, which are independent components.

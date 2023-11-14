@@ -1,4 +1,4 @@
-baseURL = 'https://kdebugger.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'KDebugger'
 contentDir = "content"
@@ -11,11 +11,11 @@ contentDir = "content"
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
 
-[[menu.primary]]
-    name  = "Docs"
-    url = "/docs/"
-    identifier = "docs"
-    weight = 10
+# [[menu.primary]]
+#     name  = "Docs"
+#     url = "/docs/"
+#     identifier = "docs"
+#     weight = 10
 
 [params]
     google_fonts = [
@@ -32,7 +32,6 @@ contentDir = "content"
 
     [params.docs]
         title = "KDebugger"
-        pathName = "docs"
 
         themeColor = "cardinal"
         darkMode = true
@@ -42,7 +41,9 @@ contentDir = "content"
         
         prims = true
         prismTheme = "twilight"
-        
+    
+        breadcrumbs = true
+
         extLinkNewTab = true
 
         descriptions = true
