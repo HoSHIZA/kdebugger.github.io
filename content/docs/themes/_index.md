@@ -1,5 +1,5 @@
 ---
-weight: 900
+weight: 1100
 title: "Themes"
 description: "A guide to using and creating custom themes for KDebugger."
 icon: "image"

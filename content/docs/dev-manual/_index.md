@@ -1,5 +1,5 @@
 ---
-weight: 700
+weight: 1000
 title: "Dev Manual"
 description: "A user guide with examples on how to create your own addons, and, tools compatible with KDebugger."
 icon: "code"

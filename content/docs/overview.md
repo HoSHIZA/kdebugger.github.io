@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 20
 title: "Overview"
 description: "An advanced tool to help with development and debugging."
 icon: "circle"
@@ -12,7 +12,8 @@ Welcome to the KDebugger user guide. Here you will find detailed documentation w
 
 ## What is KDebugger?
 This is a set of powerful tools that should help you develop, test and detect bugs right during gameplay and build on the target platform. Thanks to it you will be able to monitor the change of necessary values on the fly, watch unity console output, create a cheat panel and various useful tools for testing gameplay and all this in a very nice interface with dynamic support for third-party themes!
-Thanks to the built-in package manager for installing addons, you can use and create various addons that are useful in a particular situation.
+Thanks to the built-in package manager for installing addons, you can use and create various addons that are useful in a particular situation. 
+View the list of addons in the [addons]({{% relref "/docs/addons" %}}) category.
 
 ## Advantages of choosing KDebugger.
 - Many useful tools out of the box.

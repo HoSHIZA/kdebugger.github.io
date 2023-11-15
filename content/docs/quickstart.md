@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 30
 title: "Quick Start"
 description: "Getting started with KDebugger."
 icon: "rocket_launch"
